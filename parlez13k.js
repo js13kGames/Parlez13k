@@ -18,7 +18,7 @@ let responses = [
     '               nop', 
     'black sabbath and megadeth',
     'i like llamas',
-    ' there is nothing more id like to know to do',
+    '(╯°□°）╯︵ ┻━┻',
     'gnerd',
     'f*** you',
     'inner rage @_@',
