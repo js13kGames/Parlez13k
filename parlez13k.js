@@ -20,7 +20,7 @@ let responses = [
     'i like llamas',
     '(╯°□°）╯︵ ┻━┻',
     'gnerd',
-    'f*** you',
+    'ooo barracuda',
     'inner rage @_@',
     'treading water x_x',
     ' <_<',
