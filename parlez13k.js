@@ -97,7 +97,11 @@ function newElement() {
     let li = document.createElement("li");
     // add computer's response automatically
     let autoResponse = responses.randomElement();
-
+    // remove that response
+    var index = responses.indexOf(autoResponse);
+    if (index !== -1 && index != 0) {
+        responses.splice(index, 1);
+    }
     if (checkForSuccess(autoResponse) === true) {
         alert("You won! You get to go out with the computer. \
             Refresh your browser to restart the game.");
