@@ -31,6 +31,8 @@ transition: 0.2s;
 user-select: none;
 }
 
+/* ul li: */
+
 /* Set all odd list items to a different color (zebra-stripes) */
 ul li:nth-child(even) {
 text-align: right;
@@ -66,7 +68,7 @@ display: table;
 
 /* Style the header */
 .header {
-background-color: #f44336;
+background-color: #0c8032;
 padding: 30px 40px;
 color: white;
 text-align: center;

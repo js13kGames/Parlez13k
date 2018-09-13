@@ -15,14 +15,37 @@ Array.prototype.randomElement = function() {
 let responses = [
     // first index is the winning index
     '!!! OK LETS GO OUT !!!',
-    'i know', 
+    '               nop', 
     'black sabbath and megadeth',
     'i like llamas',
     ' there is nothing more id like to know to do',
+    'gnerd',
+    'f*** you',
+    'inner rage @_@',
+    'treading water slut',
+    ' brb redirecting your shit to the NSA',
+    ' afk porn',
+    ' jupiter, our sports bike will take us there',
+    'my mixtape is slciker then you too can to',
+    'only on the big rock candy mountain',
+    'https://out.reddit.com/t3_9fdd09?url=https%3A%2F%2Fi.imgur.com%2FQpShZf1.gifv&to \
+        ken=AQAAT-aZW9d-hjNBuXnBYt6Gu-agWZ7QWZzWmlyXLf16unMz07jI&app_name=desktop2x',
+    'Exception in thread "main" java.lang.NullPointerException \
+        at ClienteDB.incluir(ClienteDB.java:30) \
+        at ClienteInterface.main(ClienteInterface.java:16)',
+    'CCGAAA-GTAG----GAGGGG-A-TT-------------------------TACTCGAACGGCTTTAAAGGC--- \
+        ---------------------------------------ATGATA-GTACTAAC-CAA-------GCTAA-GTTA \
+        G-CTATA-TGT-GGATCTA-AGAAGCTCCCCGTCCAGCAAGAGCGATATTGGGGTTC',
+    'Over analyzing \
+        Separates the body from the mind. \
+        Withering my intuition \
+        Missing opportunities and I must \
+        Feed my will to feel my moment',
     'no u'];
 
+// document.getElementsByClassName("sendBtn").addEvent
+
 // Create a name next to message
-const person1 = "George", computer = "Samantha BonRoddenStocker";
 // append a close button
 // var myNodelist = document.getElementsByTagName("LI");
 // var i;
