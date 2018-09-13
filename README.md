@@ -6,6 +6,7 @@ A dumb dirty stupid simple messaging app game for [js13k gamejam](http://js13kga
 
 
 ### TODOs
- - Allow user to hit return/enter to send message
- - Modify the list items to include player's name
+ - Allow user to hit return/enter on keyboard to send message
+ - Modify the list items to look more like SMS messages (time, name, ...)
  - Have fun with CSS (lol?)
+ - Mobile, VR, Augmented reality, bitcoin, ...

@@ -22,8 +22,9 @@ let responses = [
     'gnerd',
     'f*** you',
     'inner rage @_@',
-    'treading water slut',
-    ' brb redirecting your shit to the NSA',
+    'treading water x_x',
+    ' <_<',
+    ' brb git stashing all your weed',
     ' afk porn',
     ' jupiter, our sports bike will take us there',
     'my mixtape is slciker then you too can to',
@@ -98,7 +99,8 @@ function newElement() {
     let autoResponse = responses.randomElement();
 
     if (checkForSuccess(autoResponse) === true) {
-        alert("You won! You get to go out with the computer.");
+        alert("You won! You get to go out with the computer. \
+            Refresh your browser to restart the game.");
     }
 
     t = document.createTextNode(autoResponse);

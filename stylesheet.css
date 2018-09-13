@@ -31,7 +31,18 @@ transition: 0.2s;
 user-select: none;
 }
 
-/* ul li: */
+.parallax {
+    /* The image used */
+    background-image: url("green_fire_small.jpg");
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 /* Set all odd list items to a different color (zebra-stripes) */
 ul li:nth-child(even) {
